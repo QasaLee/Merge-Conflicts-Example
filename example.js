@@ -1,2 +1,2 @@
 var num = 50;
-var truth = "Earth is hollow!";
+var truth = "Earth is flat!";
